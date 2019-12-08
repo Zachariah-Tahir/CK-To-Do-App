@@ -22,4 +22,4 @@ run `yarn install`in project root
 
 # Disclaimer
 
-This is just the basics to get us going let me know if you have any recommendations of things to add please let me know or submit pull request. All contributors welcom.
+This is just the basics to get us going let me know if you have any recommendations of things to add please let me know or submit pull request. All contributors welcome.
